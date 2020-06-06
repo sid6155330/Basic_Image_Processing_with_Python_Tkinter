@@ -9,7 +9,7 @@
 
 <img src="git1/2.png" width= "800" height="400">
 
-###  Detect edges using a 3x3 horizontal and verical kernel
+###  Detect edges using a 3x3 horizontal and vertical kernel
 
 <img src="git1/3.png" width= "800" height="400">
 
