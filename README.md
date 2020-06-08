@@ -1,8 +1,9 @@
 # Basic_Image_Processing_with_Python_Tkinter
 ### Perform Edge Detection, Hough Transforms, Low and High Pass Filtering on Images with Tkinter Package
 
- ### GUI
 ### (NOTE: Use main.ipynb and main.py)
+
+### GUI
 <img src="git1/1.png" width= "400" height="400">
 
 ### Select files from the explorer
